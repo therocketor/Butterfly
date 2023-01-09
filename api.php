@@ -2,8 +2,8 @@
 <?php 
 error_reporting(0);
 //---------------------------------------//
-$mtc_site = "https://madinafoundationdagenham.org/membership-account/membership-checkout" ;
-$amt = "£5" ;
+$mtc_site = "https://donate.bigissue.com" ;
+$amt = "£1" ;
 //---------------------------------------//
 
 $update = file_get_contents('php://input');
