@@ -1,1 +1,0 @@
-_tt_enable_cookie=1; _ttp=drgwYbCX9mHW2APSK5a4Jwt-XKz; dnt_amount=%7B%22amount%22%3A100%2C%22frequency%22%3A%22once%22%2C%22currency%22%3A%22GBP%22%2C%22amount_donation%22%3A100%2C%22amount_tip%22%3A0%7D; DntSession=247tb2bgl9bct08nk9ug4dbq07
